@@ -1,0 +1,8 @@
+{
+    "expo":{
+        "name": "facemesh",
+        "android" :{
+            "package": "com.lemonpi3.facemesh"
+        }
+    }
+}
